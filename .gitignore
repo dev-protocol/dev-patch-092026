@@ -1,0 +1,9 @@
+# Foundry build artifacts
+out/
+cache/
+
+# Local editor/agent settings
+.claude/
+
+# Environment
+.env
